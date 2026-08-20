@@ -15,7 +15,7 @@ I have plenty of room for improvement with threading. I am aware that in some ca
 
 ## What tools and/or resources are you adding to your support network?
 
-
+The Raspberry Pi will be an excellent tool to continue developing my skills. This hardware provides a great opportunity to be creative and work on additional projects. I have begun to brainstorm other projects I can use these tools for to showcase my abilities for future employers. 
 
 ## What skills from this project will be particularly transferable to other projects and/or course work?
 
