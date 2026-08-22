@@ -3,7 +3,7 @@
 
 ## Summarize the project and what problem it was solving.
 
-The final project is a prototype of a smart thermostat. This is used to showcase the abilities of an embedded system and simulate connection to the cloud to meet IoT requirements for the client. 
+The Milestone3 file is project to transmit messages in Morse Code using LED lights as well as displaying the message to an LCD screen. The goal was to implement it as a state machine to give the desired behavior. This was especially difficult when thinking of the logic and different possible cases when iterating through letters, words, or even sentences. The final project is a prototype of a smart thermostat. This is used to showcase the abilities of an embedded system and simulate connection to the cloud to meet IoT requirements for the client. 
 
 ## What did you do particularly well?
 
